@@ -112,7 +112,7 @@ def display(self):
     print()
 ```
     
-Pseudo-Code Explanation:
+Code Explanation:
 We define a `Node` class that represents each node in the linked list. 
 Each node has two attributes: `data` to store the value and `next` to reference the next node.
 Then, we define a `LinkedList` class with the `head` initialized as `None`.
