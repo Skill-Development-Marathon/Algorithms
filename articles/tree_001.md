@@ -1,6 +1,6 @@
 # Introduction to Trees
 
-![tree_001_01.png](tree_001_01.png)
+![tree_001_01.png](./resources/tree_001_01.png)
 
 Trees are fundamental data structures that have widespread applications in computer science. They are hierarchical structures consisting of interconnected nodes, resembling the branches of a tree. In this blog post, we will provide an introduction to trees, explore their properties, and understand their implementations in Python. We will also discuss real-world examples where trees play a crucial role. So, let's dive in!
 
