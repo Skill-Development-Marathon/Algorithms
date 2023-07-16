@@ -69,7 +69,7 @@ In this blog post, we introduced trees as hierarchical data structures used in c
 
 ## 6. Test Your Knowledge
 Test your understanding of trees with the following questions:
-
+```text
 1. What is the purpose of the root node in a tree?
    a) It holds the data in a tree.
    b) It connects two nodes together.
@@ -87,7 +87,7 @@ Test your understanding of trees with the following questions:
    b) Recipe ingredients.
    c) Phone contacts.
    d) All of the above.
-
+```
 Take a moment to answer these questions to test your knowledge!
 
 That brings us to the end of this introduction to trees. We hope this blog post has provided you with a solid foundation to explore trees further. Trees are a fascinating topic with numerous applications, and mastering them will greatly enhance your problem-solving abilities in the world of computer science. Happy coding!
