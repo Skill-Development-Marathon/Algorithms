@@ -1,4 +1,4 @@
 # Outline
 
 ## Trees
-- [Introduction To Trees](./resources/tree_001.md)
+- [Introduction To Trees](./articles/tree_001.md)
